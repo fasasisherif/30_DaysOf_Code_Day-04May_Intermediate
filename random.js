@@ -17,7 +17,7 @@ for (i=0; i < arr.length; i++){
 /* THIS IS TO CHOOSE AN ELEMENT AT RANDOM BETWEEN 0 TO 10 */
 /* BUT NOTE THAT "Math.random()" CHOOSES A NUMBER BETWEEN 0 TO 10.99 AND Math.floor() THEN ROUNDS IT DOWN */
 
-quote[0].innerHTML = arr[Math.floor(Math.random()*11)]		
+quote[0].innerHTML = arr[Math.floor(Math.random()*10)]		
 	
 	}
 }

@@ -1,0 +1,28 @@
+body{
+		margin:0;
+		padding:0;
+		font-family:"Baloo Da 2";
+		}
+.topic{
+		background-color:#f4f4f4;
+		border-bottom:2px double #aeaeae;
+		font-size:35px;
+		text-align:center;
+		padding:10px;
+		}
+.time_left{
+		text-align:center;
+		}
+.quote{
+		background-color:#f4f4f4;
+		font-size:25px;
+		text-align:center;
+		margin-top:4pc;
+		padding:10px;
+	 border:2px double #aeaeae;
+	 border-radius:10px;
+		}
+.topic:hover, .quote:hover{
+		background-color:grey;
+		color:white;
+		}
